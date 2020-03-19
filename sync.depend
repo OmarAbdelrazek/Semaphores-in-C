@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1576012121 source:/home/omar/Desktop/OS/lab3/sync/main.c
+	<stdio.h>
+	<pthread.h>
+	<semaphore.h>
+	<unistd.h>
+	<stdbool.h>
+
